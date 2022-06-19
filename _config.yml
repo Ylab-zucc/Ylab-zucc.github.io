@@ -224,3 +224,5 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+  - html-proofer
+  
